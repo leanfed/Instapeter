@@ -1,0 +1,59 @@
+.efecto{
+    font: bold 40px/1 verdana ; font-style: italic;
+    text-transform: none;
+    color: #1ebbc6;
+    text-shadow: 0  2px  0   #3db2d6,
+                 0  4px  0   #33a1bd,
+                 0  6px  0   #2c85a8, 
+                 0  8px  0   #217191, 
+                 0 10px  0   #144f6b,
+                 0 12px  0   #0c3d46,
+                3px 8px 15px rgba(0, 0, 0, 0.1),
+                3px 8px  5px rgba(0, 0, 0, 0.3);
+  }
+
+
+body{
+    background-image: url(https://media.timeout.com/images/102767805/image.jpg); font-style: italic;font-size: 100%;
+}
+H1, h2,p{
+    color: white; text-align: center;text-shadow: 0 0 20px rgb(194, 246, 255); 
+}
+.bueno{
+    background-color: violet; margin: o;padding:o; box-shadow: 0 0 10px rgb(68, 202, 255);text-align: center;color: snow;
+}
+.center{
+    text-align: center;display: block;margin: auto; width: 300px;flex-direction: column; justify-content: center; align-items: center;}
+    .meu{opacity: 0.9;
+    }
+    .back{
+        background-color: slateblue;opacity: 0.9;color: snow;
+    }
+    .bueno2{
+        margin: o;padding:o; box-shadow: 0 0 20px rgb(68, 202, 255);text-align: center;
+    }
+    .bueno0{
+        text-align: center;opacity: 0.9;resize: vertical;
+    }
+    button{
+        text-align: center;border-radius: 70%; color:rgb(253, 253, 253); font-size: large; background-color:violet; box-shadow: 0 0 20px rgb(68, 202, 255); transition: background-color .5s;
+        border: 0;
+        color: var(--color-inactivo);
+        transition: 1s all}
+    button:hover{background-color: rgb(68, 202, 255);box-shadow: 0 0 40px;  cursor: pointer;
+        color: var(--color-hover);
+        transform: rotate(360deg)}
+     .ab{
+        border-left:3px solid #24ebf2;
+        border-right:3px solid #24ebf2;
+        border-top:3px solid #24ebf2;
+        border-block-end: 3px solid #24ebf2;
+        border-style: double;
+        }
+
+        .mail{ width: 50px; height: 50px;text-align: right;
+        }
+    
+        
+        
+    
